@@ -1,0 +1,8 @@
+```
+IDE (NetBeans 8.0)
+```
+#### Requirment
+```
+Create an applet that makes use of the Graphics class
+drawing methods
+```
